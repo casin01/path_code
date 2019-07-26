@@ -1,0 +1,40 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\SCRIPTS 1\ending.cs">
+    <Files>
+      <File FileName="Assets\SCRIPTS 1\displayimage.cs" Line="1" Column="1" />
+      <File FileName="Assets\SCRIPTS 1\ButtonHandler.cs" Line="1" Column="1" />
+      <File FileName="Assets\SCRIPTS 1\Interact.cs" Line="1" Column="1" />
+      <File FileName="Assets\SCRIPTS 1\Iinteractable.cs" Line="1" Column="1" />
+      <File FileName="Assets\SCRIPTS 1\ZoominObject.cs" Line="1" Column="1" />
+      <File FileName="Assets\SCRIPTS 1\Buttonbehavior.cs" Line="1" Column="1" />
+      <File FileName="Assets\SCRIPTS 1\ChangeView.cs" Line="1" Column="1" />
+      <File FileName="Assets\SCRIPTS 1\ObjectsManage.cs" Line="1" Column="1" />
+      <File FileName="Assets\SCRIPTS 1\Inventory.cs" Line="1" Column="1" />
+      <File FileName="Assets\SCRIPTS 1\PickUpItem.cs" Line="1" Column="1" />
+      <File FileName="Assets\SCRIPTS 1\Slot.cs" Line="1" Column="1" />
+      <File FileName="Assets\SCRIPTS 1\Drawer.cs" Line="1" Column="1" />
+      <File FileName="Assets\SCRIPTS 1\NumberLock.cs" Line="1" Column="1" />
+      <File FileName="Assets\SCRIPTS 1\LockerNumber.cs" Line="1" Column="1" />
+      <File FileName="Assets\SCRIPTS 1\DynamicObject.cs" Line="1" Column="1" />
+      <File FileName="Assets\SCRIPTS 1\numberlock6.cs" Line="1" Column="1" />
+      <File FileName="Assets\SCRIPTS 1\lockernumber6.cs" Line="1" Column="1" />
+      <File FileName="Assets\SCRIPTS 1\Exitdoor.cs" Line="1" Column="1" />
+      <File FileName="Assets\SCRIPTS 1\Mainmenu.cs" Line="13" Column="23" />
+      <File FileName="Assets\SCRIPTS 1\PauseMenu.cs" Line="1" Column="1" />
+      <File FileName="Assets\SCRIPTS 1\LevelManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\SCRIPTS 1\LevelButton.cs" Line="1" Column="1" />
+      <File FileName="Assets\SCRIPTS 1\UIDisplayer.cs" Line="1" Column="1" />
+      <File FileName="Assets\SCRIPTS 1\changebook.cs" Line="1" Column="1" />
+      <File FileName="Assets\SCRIPTS 1\Books.cs" Line="1" Column="1" />
+      <File FileName="Assets\SCRIPTS 1\booklocker.cs" Line="1" Column="1" />
+      <File FileName="Assets\SCRIPTS 1\Laptop.cs" Line="1" Column="1" />
+      <File FileName="Assets\SCRIPTS 1\skyblue.cs" Line="1" Column="1" />
+      <File FileName="Assets\SCRIPTS 1\ending.cs" Line="18" Column="20" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
